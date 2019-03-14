@@ -62,13 +62,17 @@ Free:
 ## Github
 
 Collections: 
+- https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/charlax/professional-programming
+- https://github.com/sindresorhus/awesome
 - https://github.com/bnb/awesome-developer-streams
 - https://github.com/quozd/awesome-dotnet
 - https://github.com/thangchung/awesome-dotnet-core
 - https://github.com/PatrickJS/awesome-angular
-- https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/mre/awesome-static-analysis
+- https://github.com/Arch/awesome-ddd
+- https://github.com/aloisdg/awesome-linq
+- https://github.com/adamsitnik/awesome-dot-net-performance
 
 .Net:
 - https://github.com/asadsahi
