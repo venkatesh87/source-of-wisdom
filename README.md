@@ -73,6 +73,7 @@ Collections:
 - https://github.com/Arch/awesome-ddd
 - https://github.com/aloisdg/awesome-linq
 - https://github.com/adamsitnik/awesome-dot-net-performance
+- https://github.com/bnb/awesome-speakers
 
 .Net:
 - https://github.com/asadsahi
