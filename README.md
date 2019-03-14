@@ -67,6 +67,7 @@ Collections:
 - https://github.com/quozd/awesome-dotnet
 - https://github.com/thangchung/awesome-dotnet-core
 - https://github.com/PatrickJS/awesome-angular
+- https://github.com/dypsilon/frontend-dev-bookmarks
 
 .Net:
 - https://github.com/asadsahi
