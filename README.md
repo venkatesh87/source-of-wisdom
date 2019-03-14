@@ -68,6 +68,7 @@ Collections:
 - https://github.com/thangchung/awesome-dotnet-core
 - https://github.com/PatrickJS/awesome-angular
 - https://github.com/dypsilon/frontend-dev-bookmarks
+- https://github.com/mre/awesome-static-analysis
 
 .Net:
 - https://github.com/asadsahi
@@ -80,6 +81,8 @@ Collections:
 - https://github.com/bjcull
 - https://github.com/FabianGosebrink
 - https://github.com/MarkPieszak
+- https://github.com/aspnetboilerplate
+- https://github.com/Dotnet-Boxed
 
 Web:
 - https://github.com/fireship-io
