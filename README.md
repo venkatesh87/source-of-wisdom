@@ -64,6 +64,9 @@ Free:
 Collections: 
 - https://github.com/charlax/professional-programming
 - https://github.com/bnb/awesome-developer-streams
+- https://github.com/quozd/awesome-dotnet
+- https://github.com/thangchung/awesome-dotnet-core
+- https://github.com/PatrickJS/awesome-angular
 
 .Net:
 - https://github.com/asadsahi
