@@ -66,30 +66,30 @@ Free:
 ## Github
 
 Collections: 
-https://github.com/charlax/professional-programming
-https://github.com/bnb/awesome-developer-streams
+- https://github.com/charlax/professional-programming
+- https://github.com/bnb/awesome-developer-streams
 
 .Net:
-https://github.com/asadsahi
-https://github.com/cornflourblue
-https://github.com/mmacneil
-https://github.com/dotnet-architecture
-https://github.com/gregkalapos
-https://github.com/hakonamatata
-https://github.com/wesdoyle
-https://github.com/bjcull
-https://github.com/FabianGosebrink
-https://github.com/MarkPieszak
+- https://github.com/asadsahi
+- https://github.com/cornflourblue
+- https://github.com/mmacneil
+- https://github.com/dotnet-architecture
+- https://github.com/gregkalapos
+- https://github.com/hakonamatata
+- https://github.com/wesdoyle
+- https://github.com/bjcull
+- https://github.com/FabianGosebrink
+- https://github.com/MarkPieszak
 
 Web:
-https://github.com/fireship-io
-https://github.com/codediodeio
-https://github.com/AngularFirebase
-https://github.com/mosh-hamedani
-https://github.com/StephenGrider
-https://github.com/mschwarzmueller
-https://github.com/academind
-https://github.com/Colt
+- https://github.com/fireship-io
+- https://github.com/codediodeio
+- https://github.com/AngularFirebase
+- https://github.com/mosh-hamedani
+- https://github.com/StephenGrider
+- https://github.com/mschwarzmueller
+- https://github.com/academind
+- https://github.com/Colt
 
 
 
