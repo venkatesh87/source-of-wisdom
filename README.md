@@ -1,5 +1,7 @@
 # Learning materials
 
+Fun https://stackshare.io/
+
 ## Sites
 
 - Udemy https://www.udemy.com/
@@ -159,6 +161,8 @@ Ideas:
 
  Libs or fraeworks: 
 - https://getbootstrap.com/
+- https://material-ui.com/
+- https://semantic-ui.com/
 - https://bulma.io/
 - https://material.angular.io/
 - https://valor-software.com/ngx-bootstrap/#/
@@ -269,7 +273,6 @@ Usefull stuffs:
 - https://unity3d.com/learn/courses
 - https://en.wikipedia.org/wiki/Timeline_of_web_browsers
 -https://github.com/login/oauth/authorize?client_id=234472f42264e3374002&state=u0v0amm27jg&scope=read:org,user:email
-- https://stackshare.io/
 - https://bestofjs.org/
 - http://www.wolfram.com/cloud/
 - https://www.algoexpert.io/
