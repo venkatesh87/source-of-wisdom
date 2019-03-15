@@ -38,6 +38,41 @@ Free:
 - Hackr https://hackr.io/
 - Fireship https://fireship.io/terms/
 
+Docs / Others:
+- https://dotnet.microsoft.com/platform/community
+- https://blazor.net/
+- https://angular.io/docs
+- https://getbootstrap.com/docs/4.3/getting-started/introduction/
+- https://electronjs.org/docs
+- https://developer.mozilla.org/
+- https://nodejs.org/en/docs/
+- http://reactivex.io/
+- https://vuejs.org/v2/guide/
+- https://github.com/winjs/winjs
+- https://babeljs.io/docs/en/
+- https://webpack.js.org/concepts
+- https://github.com/cheeriojs/cheerio
+
+Mobile:
+- https://cordova.apache.org/docs/en/latest/
+- https://docs.microsoft.com/hu-hu/xamarin/
+- https://flutter.dev/docs
+- https://docs.nativescript.org/
+- https://facebook.github.io/react-native/docs/getting-started
+- https://ionicframework.com/docs/intro/installation/
+
+Testing:
+- https://jasmine.github.io/
+- https://www.protractortest.org/#/
+- https://www.seleniumhq.org/
+- https://karma-runner.github.io/latest/index.html
+- https://ghostinspector.com/
+
+Usefull:
+- https://www.hangfire.io/
+- https://www.red-gate.com/
+- https://www.linqpad.net/
+
 ## Blogs
 
 - FullStack Mark https://fullstackmark.com/
@@ -52,6 +87,8 @@ Free:
 - Scotch.io https://scotch.io/
 - C# Corner https://www.c-sharpcorner.com/
 - Code Maze https://code-maze.com/
+- Ardalis https://ardalis.com/blog
+- Clean Code Blog (old) https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 
 ## Youtube channels
 
@@ -161,6 +198,7 @@ Ideas:
 
  Libs or fraeworks: 
 - https://getbootstrap.com/
+- https://material.io/design/
 - https://material-ui.com/
 - https://semantic-ui.com/
 - https://bulma.io/
@@ -169,6 +207,7 @@ Ideas:
 - https://ng-bootstrap.github.io/#/home
 - https://www.primefaces.org/primeng/#/
 - https://mdbootstrap.com/
+- https://getmdl.io/started/
 
 Sites:
 - https://www.akveo.com/
@@ -213,6 +252,7 @@ Usefull stuffs:
 - https://developers.google.com/ml-kit/
 - https://cloud.google.com/vision/
 - https://cloud.google.com/automl/
+- https://www.programmableweb.com/api/microsoft-project-oxford-vision
 
 ## DevOps - Hosting
 
@@ -222,15 +262,25 @@ Usefull stuffs:
 - https://kubernetes.io/
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
 - https://gitexplorer.com
-- https://www.atlassian.com/
+- https://www.atlassian.com/  (JIRA,Confluence,Bamboo)
 - https://aws.amazon.com
 - https://www.heroku.com/
 - https://firebase.google.com/
 - http://azure.microsoft.com
+- http://datadrop.wolframcloud.com/
 - https://www.netlify.com/
 - https://pages.github.com/
 - https://www.hostinger.com/
 
+## Games
+
+- https://www.unrealengine.com
+- https://unity3d.com
+- https://www.cryengine.com/
+- https://cocos2d-x.org/
+- XNA game
+- https://phaser.io/
+- Euphoria game engine
 
 ## Office
 
@@ -263,7 +313,6 @@ Usefull stuffs:
 - https://kangax.github.io/compat-table/es6/
 - https://www.epochconverter.com/
 - https://www.cloudflare.com/
-- https://www.hangfire.io/
 - https://msdn.microsoft.com/magazine/msdn-magazine-issues
 - https://www.regexpal.com/
 - https://update.angular.io/
@@ -281,12 +330,11 @@ Usefull stuffs:
 - https://jamstack.org/
 - https://auth0.auth0.com/
 - https://jwt.io/
-- https://developer.mozilla.org/hu/
 - https://yeoman.io/
 - https://gohugo.io/
 - https://jekyllrb.com/
 - https://www.gatsbyjs.org/
--
+
 
 
 
