@@ -121,6 +121,7 @@ Collections:
 - https://github.com/bnb/awesome-speakers
 
 .Net:
+- https://github.com/ardalis
 - https://github.com/asadsahi
 - https://github.com/cornflourblue
 - https://github.com/mmacneil
