@@ -112,6 +112,8 @@ Collections:
 - https://github.com/quozd/awesome-dotnet
 - https://github.com/thangchung/awesome-dotnet-core
 - https://github.com/PatrickJS/awesome-angular
+- https://github.com/enaqx/awesome-react
+- https://github.com/vuejs/awesome-vue
 - https://github.com/mre/awesome-static-analysis
 - https://github.com/Arch/awesome-ddd
 - https://github.com/aloisdg/awesome-linq
