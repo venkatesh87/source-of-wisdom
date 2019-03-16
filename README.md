@@ -72,6 +72,7 @@ Usefull:
 - https://www.hangfire.io/
 - https://www.red-gate.com/
 - https://www.linqpad.net/
+- http://wixtoolset.org/
 
 ## Blogs
 
@@ -244,6 +245,8 @@ Usefull stuffs:
 - https://github.com/trekhleb/homemade-machine-learning
 - https://en.wikipedia.org/wiki/ML.NET
 - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
+- https://github.com/dotnet/machinelearning-samples/blob/master/docs/COMMUNITY-SAMPLES.md
+- https://github.com/dotnet/machinelearning-samples
 - https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
 - https://www.microsoft.com/en-us/cognitive-toolkit/
 - http://accord-framework.net/
