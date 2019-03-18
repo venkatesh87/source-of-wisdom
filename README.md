@@ -247,6 +247,7 @@ Usefull stuffs:
 
 - https://github.com/trekhleb/homemade-machine-learning
 - https://en.wikipedia.org/wiki/ML.NET
+- https://www.luis.ai/home
 - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 - https://github.com/dotnet/machinelearning-samples/blob/master/docs/COMMUNITY-SAMPLES.md
 - https://github.com/dotnet/machinelearning-samples
