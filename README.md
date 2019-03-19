@@ -39,6 +39,8 @@ Free:
 - Fireship https://fireship.io/terms/
 
 Docs / Others:
+- https://discoverdot.net/
+- https://aspnetboilerplate.com/
 - https://dotnet.microsoft.com/platform/community
 - https://blazor.net/
 - https://angular.io/docs
@@ -121,6 +123,7 @@ Collections:
 - https://github.com/bnb/awesome-speakers
 
 .Net:
+- https://github.com/aspnetboilerplate
 - https://github.com/ardalis
 - https://github.com/asadsahi
 - https://github.com/cornflourblue
