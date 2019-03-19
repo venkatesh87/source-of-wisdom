@@ -68,13 +68,22 @@ Mosh Hamedani:
 - C# Entitiy Framework in Depth
 - C# Learn the Art of Writing Clean Code
 - C# Double Your Coding Speed with VS
+- Xamarin Forms: Build Native Cross-platform Apps with C#
 
 Maximilian Schwarzmüller:
 - Angular 7 (formerly Angular 2) - The Complete Guide
+- Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular
 
 Colt Steele:
 
 Stephen Grider:
+- Modern React with Redux [2019 Update]--
+- Advanced React and Redux: 2018 Edition--
+- Machine Learning with Javascript--
+- Docker and Kubernetes: The Complete Guide--
 
 Other:
 - High Performance Coding with .NET Core and C#
+- .NET Core Microservicess--
+- The Web Developer Bootcamp--
+- The Advanced Web Developer Bootcamp--
