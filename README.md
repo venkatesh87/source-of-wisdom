@@ -92,6 +92,7 @@ Usefull:
 - Code Maze https://code-maze.com/
 - Ardalis https://ardalis.com/blog
 - Clean Code Blog (old) https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
+- Tomasz Pęczek https://www.tpeczek.com/p/archives.html
 
 ## Youtube channels
 
@@ -135,7 +136,6 @@ Collections:
 - https://github.com/bjcull
 - https://github.com/FabianGosebrink
 - https://github.com/MarkPieszak
-- https://github.com/aspnetboilerplate
 - https://github.com/Dotnet-Boxed
 
 Web:

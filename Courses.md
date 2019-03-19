@@ -75,6 +75,8 @@ Maximilian Schwarzmüller:
 - Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular
 
 Colt Steele:
+- The Web Developer Bootcamp
+- The Advanced Web Developer Bootcamp
 
 Stephen Grider:
 - Modern React with Redux [2019 Update]--
