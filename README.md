@@ -17,6 +17,7 @@ Fun https://stackshare.io/
 - Programming with Mosh https://programmingwithmosh.com/
 - Datacamp https://www.datacamp.com/
 - Zenva https://academy.zenva.com/
+- OWT https://webdesigntanfolyam.com
 
 Free:
 - Udacity https://eu.udacity.com/
@@ -124,19 +125,23 @@ Collections:
 - https://github.com/bnb/awesome-speakers
 
 .Net:
-- https://github.com/aspnetboilerplate
 - https://github.com/ardalis
 - https://github.com/asadsahi
 - https://github.com/cornflourblue
 - https://github.com/mmacneil
-- https://github.com/dotnet-architecture
 - https://github.com/gregkalapos
 - https://github.com/hakonamatata
 - https://github.com/wesdoyle
 - https://github.com/bjcull
 - https://github.com/FabianGosebrink
 - https://github.com/MarkPieszak
+
+.Net BoilerPlate:
+- https://github.com/aspnetboilerplate
 - https://github.com/Dotnet-Boxed
+- https://github.com/dotnet-architecture
+- https://store.akveo.com/
+- https://aspnetzero.com
 
 Web:
 - https://github.com/fireship-io
@@ -193,7 +198,7 @@ Web:
 - http://resources.jointjs.com/tutorial
 - https://echarts.baidu.com
 - https://plot.ly/
-- (.NET) https://lvcharts.net/App/examples/v1/wf/Pie%20Chart
+- (.NET) https://lvcharts.net/
 - (.NET) https://archive.codeplex.com/?p=modernuicharts
 
 # Design
@@ -227,6 +232,7 @@ Stores:
 - https://bootswatch.com/
 - https://wrapbootstrap.com
 - https://themehunt.com/
+- https://bootstrapmade.com/
 - https://startbootstrap.com/
 - https://envato.com/
 - https://www.bootstrapzero.com/
@@ -297,7 +303,9 @@ Usefull stuffs:
 - https://github.com/OfficeDev
 - https://developer.microsoft.com/en-us/office
 - https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-ins-with-angular2
--https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interop/walkthrough-office-programming
+- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interop/walkthrough-office-programming
+- https://www.youtube.com/user/1OneSkill/videos
+- https://www.youtube.com/channel/UCKsfJnvC-HCoEQEEIKZIzQQ/videos
 
 ## APIs
 
