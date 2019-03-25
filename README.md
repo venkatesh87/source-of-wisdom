@@ -357,7 +357,41 @@ Usefull stuffs:
 - https://jekyllrb.com/
 - https://www.gatsbyjs.org/
 
+## Intresting:
 
+Meglesni(Főbb frameworkok):
+React ,Vue,Angular 
+HTML,CSS,JQuery,JS
+Electron,NodeJS
+React-Native,Ionic,Cordova,Xamarin,NativeScript,Flutter
+Docker,JIRA-Confluence,Bamboo, Elastics,Kubernetes
+MDL(Material Design Library),Angular Material,Bootstrap
+Firebase ,Heroku,https://datadrop.wolframcloud.com/,Amazon AWS,github pages,Netifly,Gatsby
+Jasmine-Selenium,Protactor,Karma,Ghost Inspector
+PhantomJS,CasperJS,NodeJS Cheerio
+ASP.Net /Core , Resharper,HangFire,Blazor
+Machine Learning-Big Data 
+AI, Cognitive Serrvices,Tensorflow,ML.Net,Bot,Project Oxford Vision
+SQL
+Unity
+ 
+DB:
+-SQL,DB2,MySQL,Oracle,PostGre,Mongo specialitások
+-PouchDb/CouchDB
+-IndexedDb
+-Sqlite 3 VS
+-Cassandra,Hadoop
+-RethinkDb
+-Cosmos
+-Raven,ReThink,,Redis
+Informatika               
+Grafika
+Unreal-Unity-CryEngine,XNA,Cocos-Phaser,Euphoria
+Zbrush+Vue+3D Studio              
+       
+Robotika:
+RPI,Arduino
+IOT
 
 
 
