@@ -109,6 +109,7 @@ Usefull:
 ## Github
 
 Collections: 
+- https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/charlax/professional-programming
 - https://github.com/sindresorhus/awesome
@@ -137,7 +138,9 @@ Collections:
 - https://github.com/MarkPieszak
 
 .Net BoilerPlate:
-- https://github.com/aspnetboilerplate
+
+- https://github.com/abpframework/abp   |  https://abp.io/
+- https://github.com/aspnetboilerplate  |  https://aspnetboilerplate.com/
 - https://github.com/Dotnet-Boxed
 - https://github.com/dotnet-architecture
 - https://store.akveo.com/
@@ -254,6 +257,7 @@ Usefull stuffs:
 
 ## ML - AI (unsorted)
 
+- https://github.com/Unity-Technologies/ml-agents
 - https://github.com/trekhleb/homemade-machine-learning
 - https://en.wikipedia.org/wiki/ML.NET
 - https://www.luis.ai/home
