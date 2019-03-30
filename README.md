@@ -18,6 +18,7 @@ Fun https://stackshare.io/
 - Datacamp https://www.datacamp.com/
 - Zenva https://academy.zenva.com/
 - OWT https://webdesigntanfolyam.com
+- Thinkster https://thinkster.io/
 
 Free:
 - Udacity https://eu.udacity.com/
@@ -76,6 +77,9 @@ Usefull:
 - https://www.red-gate.com/
 - https://www.linqpad.net/
 - http://wixtoolset.org/
+- https://docs.microsoft.com/en-us/dotnet/framework/tools/gacutil-exe-gac-tool
+- https://chocolatey.org/
+
 
 ## Blogs
 
@@ -94,6 +98,9 @@ Usefull:
 - Ardalis https://ardalis.com/blog
 - Clean Code Blog (old) https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 - Tomasz Pęczek https://www.tpeczek.com/p/archives.html
+- DotNetCore Tutorials https://dotnetcoretutorials.com/
+- Clean Coder https://blog.cleancoder.com/
+- Reactive How https://reactive.how/
 
 ## Youtube channels
 
@@ -105,10 +112,12 @@ Usefull:
 - Colt Steele https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos
 - Greg Kalapos (.Net) https://www.youtube.com/user/gergoooooooooooooooo/videos
 - Dev Chatter https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA/videos
+- Devify (Flutter) https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w
 
 ## Github
 
 Collections: 
+- https://github.com/topics/awesome
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/charlax/professional-programming
@@ -136,6 +145,7 @@ Collections:
 - https://github.com/bjcull
 - https://github.com/FabianGosebrink
 - https://github.com/MarkPieszak
+- https://github.com/ReynaldAdolphe
 
 .Net BoilerPlate:
 
@@ -158,6 +168,10 @@ Web:
 - https://github.com/academind
 - https://github.com/Colt
 - https://github.com/akveo
+
+Intresting:
+- Mean https://github.com/linnovate/mean
+- Mern https://github.com/Hashnode/mern-starter
 
 # Online Editors 
 
@@ -211,7 +225,7 @@ Ideas:
 - https://dribbble.com/
 - https://pinterest.com/
 
- Libs or fraeworks: 
+ Libs or frameworks: 
 - https://getbootstrap.com/
 - https://material.io/design/
 - https://material-ui.com/
@@ -241,6 +255,7 @@ Stores:
 - https://www.bootstrapzero.com/
 
 Usefull stuffs:
+- https://www.uxpin.com/
 - https://www.freepik.com/
 - http://www.lorumipse.hu/
 - https://www.iconfinder.com/
@@ -343,7 +358,7 @@ Usefull stuffs:
 - https://syntystore.com/
 - https://unity3d.com/learn/courses
 - https://en.wikipedia.org/wiki/Timeline_of_web_browsers
--https://github.com/login/oauth/authorize?client_id=234472f42264e3374002&state=u0v0amm27jg&scope=read:org,user:email
+- https://github.com/login/oauth/authorize?client_id=234472f42264e3374002&state=u0v0amm27jg&scope=read:org,user:email
 - https://bestofjs.org/
 - http://www.wolfram.com/cloud/
 - https://www.algoexpert.io/
@@ -356,6 +371,8 @@ Usefull stuffs:
 - https://gohugo.io/
 - https://jekyllrb.com/
 - https://www.gatsbyjs.org/
+- https://nestjs.com/
+- https://www.cloudflare.com/
 
 ## Intresting:
 

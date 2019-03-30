@@ -7,8 +7,8 @@ Régi C#:
 - .NET praktikák haladóknak
 - Design Patterns
 - C# nagyoknak
-- ASP.NET  Core szerver oldal
 - Design patterns és antipatterns
+- ASP.NET  Core szerver oldal
 - C# fejlesztési projekt tokkal-vonóval
 
 Angular útvonal fed:
