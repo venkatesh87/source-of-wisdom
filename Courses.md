@@ -69,10 +69,12 @@ Mosh Hamedani:
 - C# Learn the Art of Writing Clean Code
 - C# Double Your Coding Speed with VS
 - Xamarin Forms: Build Native Cross-platform Apps with C#
+- The Complete ASP.NET MVC 5 Course
 
 Maximilian Schwarzmüller:
 - Angular 7 (formerly Angular 2) - The Complete Guide
 - Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular
+- Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
 
 Colt Steele:
 - The Web Developer Bootcamp--
@@ -87,3 +89,5 @@ Stephen Grider:
 Other:
 - High Performance Coding with .NET Core and C#
 - .NET Core Microservicess--
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More!
+- Build Responsive Real World Websites with HTML5 and CSS3

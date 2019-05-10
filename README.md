@@ -21,6 +21,8 @@ Fun https://stackshare.io/
 - Thinkster https://thinkster.io/
 
 Free:
+- Tutorial Logic  https://www.tutorialslogic.com/
+- MS Learn https://dotnet.microsoft.com/learn/web
 - Udacity https://eu.udacity.com/
 - Khanacademy https://www.khanacademy.org/
 - Codeacademy https://www.codecademy.com/
@@ -83,6 +85,7 @@ Usefull:
 
 ## Blogs
 
+- ASP.NET https://devblogs.microsoft.com/aspnet/
 - FullStack Mark https://fullstackmark.com/
 - Jason Watmore http://jasonwatmore.com/
 - Damien Bod https://damienbod.com/
@@ -101,6 +104,12 @@ Usefull:
 - DotNetCore Tutorials https://dotnetcoretutorials.com/
 - Clean Coder https://blog.cleancoder.com/
 - Reactive How https://reactive.how/
+- .Net Tips https://thomaslevesque.com/
+
+
+## Forums 
+
+- https://forums.asp.net/
 
 ## Youtube channels
 
@@ -113,8 +122,19 @@ Usefull:
 - Greg Kalapos (.Net) https://www.youtube.com/user/gergoooooooooooooooo/videos
 - Dev Chatter https://www.youtube.com/channel/UCA8TsqMrOdFBv66iIuU6efA/videos
 - Devify (Flutter) https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w
+- Microsoft Dev https://www.youtube.com/channel/UCsMica-v34Irf9KVTh6xx-g/videos
+- DarkCode https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/videos
+- The Net Ninja https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos
+- Tech Howdy https://www.youtube.com/channel/UC58AAnVqw_sF6LBAKJJES4Q/videos
+- Daily Tution https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw/videos
+
 
 ## Github
+
+Stacks:
+- https://awesomestacks.dev/
+- https://github.com/dmitry-pavlov/realworld
+
 
 Collections: 
 - https://github.com/topics/awesome
@@ -168,6 +188,7 @@ Web:
 - https://github.com/academind
 - https://github.com/Colt
 - https://github.com/akveo
+- https://github.com/toddmotto
 
 Intresting:
 - Mean https://github.com/linnovate/mean
@@ -175,6 +196,7 @@ Intresting:
 
 # Online Editors 
 
+- https://coder.com/
 - https://codesandbox.io/
 - https://stackblitz.com/
 - https://codepen.io/
@@ -220,6 +242,10 @@ Intresting:
 
 # Design
 
+Sketch, Adobe XD, Figma , Framer, InVision
+
+- http://codingheroes.io/resources/
+
 Ideas:
 - https://www.behance.net/
 - https://dribbble.com/
@@ -237,6 +263,7 @@ Ideas:
 - https://www.primefaces.org/primeng/#/
 - https://mdbootstrap.com/
 - https://getmdl.io/started/
+- https://js.devexpress.com/
 
 Sites:
 - https://www.akveo.com/
@@ -341,6 +368,8 @@ Usefull stuffs:
 
 ## Others unsorted
 
+- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+- https://marketplace.visualstudio.com/
 - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
 - https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0
 - http://jsonplaceholder.typicode.com/
