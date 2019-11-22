@@ -1,4 +1,4 @@
-
+﻿
 ## Netacademia
 
 Régi C#:
@@ -75,6 +75,7 @@ Maximilian Schwarzmüller:
 - Angular 7 (formerly Angular 2) - The Complete Guide
 - Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular
 - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
+- JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
 Colt Steele:
 - The Web Developer Bootcamp--
@@ -91,3 +92,6 @@ Other:
 - .NET Core Microservicess--
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 - Build Responsive Real World Websites with HTML5 and CSS3
+- Complete C# Unity Developer 2D: Learn to Code Making Games
+- Complete C# Unity Developer 3D: Learn to Code Making Games
+- Unity Game Development: Create 2D And 3D Games With C#

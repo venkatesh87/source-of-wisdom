@@ -1,4 +1,4 @@
-# Learning materials
+﻿# Learning materials
 
 Fun https://stackshare.io/
 
@@ -127,6 +127,7 @@ Usefull:
 - The Net Ninja https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos
 - Tech Howdy https://www.youtube.com/channel/UC58AAnVqw_sF6LBAKJJES4Q/videos
 - Daily Tution https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw/videos
+- C# UI https://www.youtube.com/channel/UCigNaporFrKIPHiF1FcWfwA/videos
 
 
 ## Github
