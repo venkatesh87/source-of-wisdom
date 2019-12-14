@@ -95,3 +95,6 @@ Other:
 - Complete C# Unity Developer 2D: Learn to Code Making Games
 - Complete C# Unity Developer 3D: Learn to Code Making Games
 - Unity Game Development: Create 2D And 3D Games With C#
+- The New Modern Javascript Bootcamp (2020)
+- Modern HTML & CSS From The Beginning (Including Sass)
+- AI Flight with Unity ML-Agents

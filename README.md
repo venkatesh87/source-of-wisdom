@@ -297,6 +297,8 @@ Usefull stuffs:
 - https://color.adobe.com/explore/?filter=most-popular&time=month
 - https://tinypng.com/
 - http://www.kammerl.de/ascii/AsciiSignature.php
+- https://pivottable.js.org/examples/
+- https://gojs.net/latest/index.html
 
 ## ML - AI (unsorted)
 
