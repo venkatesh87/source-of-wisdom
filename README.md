@@ -4,6 +4,7 @@ Fun https://stackshare.io/
 
 ## Sites
 
+- MS Learn https://docs.microsoft.com/hu-hu/learn/
 - Udemy https://www.udemy.com/
 - PluralSight https://www.pluralsight.com/
 - Packt https://www.packtpub.com/
@@ -82,6 +83,14 @@ Usefull:
 - https://docs.microsoft.com/en-us/dotnet/framework/tools/gacutil-exe-gac-tool
 - https://chocolatey.org/
 
+ASP CMS Frameworks:
+ - https://github.com/grandnode/grandnode
+ - https://github.com/simplcommerce/SimplCommerce
+ - https://www.nopcommerce.com/
+  -https://github.com/InstantASP/plato (user community)
+
+ Bot framework:
+ - 
 
 ## Blogs
 
@@ -138,7 +147,12 @@ Stacks:
 
 
 Collections: 
+- https://github.com/kaxap/arl
+- https://github.com/dodyg/practical-aspnetcore
 - https://github.com/topics/awesome
+- https://github.com/AdrienTorris/awesome-blazor
+- https://github.com/StevenTCramer/awesome-blazor
+- https://github.com/mre/awesome-static-analysis
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/charlax/professional-programming
@@ -167,6 +181,8 @@ Collections:
 - https://github.com/FabianGosebrink
 - https://github.com/MarkPieszak
 - https://github.com/ReynaldAdolphe
+- https://github.com/CodAffection
+- https://github.com/didinj
 
 .Net BoilerPlate:
 
@@ -176,6 +192,7 @@ Collections:
 - https://github.com/dotnet-architecture
 - https://store.akveo.com/
 - https://aspnetzero.com
+- https://github.com/emonney/QuickApp
 
 Web:
 - https://github.com/fireship-io
@@ -246,6 +263,7 @@ Intresting:
 Sketch, Adobe XD, Figma , Framer, InVision
 
 - http://codingheroes.io/resources/
+- https://uixninja.com/
 
 Ideas:
 - https://www.behance.net/
@@ -300,8 +318,33 @@ Usefull stuffs:
 - https://pivottable.js.org/examples/
 - https://gojs.net/latest/index.html
 
+
+## ASP .NET
+
+- https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
+- https://docs.elitenet.dk/asp-net-middleware-and-services
+- https://www.hangfire.io/
+- https://grpc.io/blog/grpc-on-dotnetcore
+- https://codinginfinite.com/best-top-dot-net-core-useful-libraries-open-source/
+- https://github.com/chsakell/aspnet-core-identity/
+- https://code-maze.com/aspnetcore-webapi-best-practices/
+- https://code-maze.com/net-core-series/
+
+## Metrics
+- https://github.com/AppMetrics/AppMetrics
+
+## Encrypt & Decrypt
+- https://md5decrypt.net/en/Sha512/
+
 ## ML - AI (unsorted)
 
+
+- https://github.com/microsoft/botframework-solutions/
+- https://github.com/iperov/DeepFaceLab
+- https://unity3d.com/machine-learning
+- https://facebook.github.io/prophet/
+- https://github.com/dotnet/machinelearning-samples
+- https://github.com/microsoft/CNTK
 - https://github.com/Unity-Technologies/ml-agents
 - https://github.com/trekhleb/homemade-machine-learning
 - https://en.wikipedia.org/wiki/ML.NET
@@ -318,6 +361,7 @@ Usefull stuffs:
 - https://cloud.google.com/vision/
 - https://cloud.google.com/automl/
 - https://www.programmableweb.com/api/microsoft-project-oxford-vision
+- https://spark.apache.org/
 
 ## DevOps - Hosting
 
@@ -368,6 +412,7 @@ Usefull stuffs:
 - https://www.elastic.co/
 - https://www.elastic.co/products/kibana
 - https://www.rabbitmq.com/
+- https://grafana.com/
 
 ## Others unsorted
 
@@ -405,8 +450,11 @@ Usefull stuffs:
 - https://www.gatsbyjs.org/
 - https://nestjs.com/
 - https://www.cloudflare.com/
+- https://pivottable.js.org/examples/
+- https://gojs.net/latest/samples/index.html
+- https://web.dev/
 
-## Intresting:
+## Intresting (2017):
 
 Meglesni(Főbb frameworkok):
 React ,Vue,Angular 
