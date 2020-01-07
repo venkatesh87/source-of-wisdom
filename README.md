@@ -1,9 +1,12 @@
 ﻿# Learning materials
 
-Fun https://stackshare.io/
+## Trends
+- https://www.npmtrends.com/
+- https://stackshare.io/
+- https://bestofjs.org/
+
 
 ## Sites
-
 - MS Learn https://docs.microsoft.com/hu-hu/learn/
 - Udemy https://www.udemy.com/
 - PluralSight https://www.pluralsight.com/
@@ -42,6 +45,8 @@ Free:
 - Tutorialspoint https://www.tutorialspoint.com/index.htm
 - Hackr https://hackr.io/
 - Fireship https://fireship.io/terms/
+- Netacademia Blog http://netacademia.blog.hu/
+- NodeSchool https://nodeschool.io/
 
 Docs / Others:
 - https://discoverdot.net/
@@ -59,6 +64,7 @@ Docs / Others:
 - https://babeljs.io/docs/en/
 - https://webpack.js.org/concepts
 - https://github.com/cheeriojs/cheerio
+- https://svelte.dev/
 
 Mobile:
 - https://cordova.apache.org/docs/en/latest/
@@ -91,7 +97,6 @@ ASP CMS Frameworks:
 
 
 ## Blogs
-
 - ASP.NET https://devblogs.microsoft.com/aspnet/
 - FullStack Mark https://fullstackmark.com/
 - Jason Watmore http://jasonwatmore.com/
@@ -114,14 +119,13 @@ ASP CMS Frameworks:
 - .Net Tips https://thomaslevesque.com/
 - DJAM https://www.djamware.com/
 - ASPHacker https://asp.net-hacker.rocks/
+- Reiter https://reiteristvan.wordpress.com/
 
 
 ## Forums 
-
 - https://forums.asp.net/
 
 ## Youtube channels
-
 - Academic https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
 - Brad Traversy https://www.youtube.com/user/TechGuyWeb/videos
 - Wes Doyle https://www.youtube.com/channel/UCfniixfhHqpIGbU7z2JCNJw/videos
@@ -138,7 +142,6 @@ ASP CMS Frameworks:
 - Daily Tution https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw/videos
 - C# UI https://www.youtube.com/channel/UCigNaporFrKIPHiF1FcWfwA/videos
 
-
 ## Github
 
 Stacks:
@@ -147,6 +150,8 @@ Stacks:
 
 
 Collections: 
+
+- https://github.com/florinpop17/app-ideas
 - https://github.com/kaxap/arl
 - https://github.com/charlax/professional-programming
 
@@ -189,7 +194,6 @@ Collections:
 - https://github.com/pgcourses
 
 .Net BoilerPlate:
-
 - https://github.com/abpframework/abp   |  https://abp.io/
 - https://github.com/aspnetboilerplate  |  https://aspnetboilerplate.com/
 - https://github.com/Dotnet-Boxed
@@ -200,7 +204,6 @@ Collections:
 - https://flatlogic.com/templates/sing-app-angular-net-core-3 (not free)
 
 Web:
-- 
 - https://github.com/fireship-io
 - https://github.com/eggheadio
 - https://github.com/eggheadio-projects
@@ -223,7 +226,6 @@ Intresting:
 - Mern https://github.com/Hashnode/mern-starter
 
 # Online Editors 
-
 - https://coder.com/
 - https://codesandbox.io/
 - https://stackblitz.com/
@@ -235,7 +237,6 @@ Intresting:
 - https://www.w3schools.com/tryit/
 
 # Codes 
-
 - https://www.w3schools.com/default.asp
 - http://www.java2s.com/
 - http://csharp.net-informations.com/
@@ -245,9 +246,9 @@ Intresting:
 - https://www.codeproject.com/
 - https://searchcode.com/
 - https://sourceforge.net/
+- https://www.codingame.com/multiplayer
 
 # Charts 
-
 - https://d3js.org/
 - https://www.chartjs.org/
 - https://threejs.org/
@@ -269,7 +270,6 @@ Intresting:
 - (.NET) https://archive.codeplex.com/?p=modernuicharts
 
 # Design
-
 Sketch, Adobe XD, Figma , Framer, InVision
 
 - http://codingheroes.io/resources/
@@ -341,26 +341,11 @@ Usefull stuffs:
 - https://startbootstrap.com/snippets/
 - https://fontflipper.com/upload
 
-## ASP .NET
-
-- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
-- https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
-- https://docs.elitenet.dk/asp-net-middleware-and-services
-- https://www.hangfire.io/
-- https://grpc.io/blog/grpc-on-dotnetcore
-- https://codinginfinite.com/best-top-dot-net-core-useful-libraries-open-source/
-- https://github.com/chsakell/aspnet-core-identity/
-- https://code-maze.com/aspnetcore-webapi-best-practices/
-- https://code-maze.com/net-core-series/
-- https://github.com/dotnet/reactive
-
 
 ## Metrics
-
 - https://github.com/AppMetrics/AppMetrics
 
 ## Encrypt & Decrypt
-
 - https://md5decrypt.net/en/Sha512/
 
 ## Security
@@ -371,83 +356,18 @@ Usefull stuffs:
 - https://jwt.io/
 
 ## DBs
-
+- https://www.connectionstrings.com/
+- https://firebase.google.com/
 - https://sqliteonline.com/
-
-
-## JS,JSON stuffs
- 
-- https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
-- https://en.wikipedia.org/wiki/Timeline_of_web_browsers
-
-- https://yeoman.io/
-- https://www.epochconverter.com/
-
-- https://github.com/matthewmueller/x-ray ( Scraper )
-- https://github.com/lukehoban/es6features#readme
-- http://jsonplaceholder.typicode.com/ 
-
-- https://bestofjs.org/ 
-- https://github.com/ryanmcdermott/clean-code-javascript
-- https://jshint.com/
-- https://whatwebcando.today/
-- https://caniuse.com/
-- https://kangax.github.io/compat-table/es6/
- 
-- https://stenciljs.com/
-- https://pivottable.js.org/examples/
-- https://gojs.net/latest/samples/index.html
-
-NodeJS:
-- https://nestjs.com/
-- https://expressjs.com/
-- https://hapi.dev/
-- https://socket.io/
-- https://sailsjs.com/
-- https://www.meteor.com/
-- Mean.io
-- https://adonisjs.com/
-
-Static site generator:
-- https://gohugo.io/
-- https://jekyllrb.com/
-- https://www.gatsbyjs.org/
-- https://jamstack.org/ (not ssg)
-
-Angular:
-- https://update.angular.io/
-- https://next.ngrx.io/
-- https://www.ag-grid.com/angular-grid/
-- https://augury.rangle.io/
-- Redux dev tools
-- https://github.com/yuyang041060120/ng2-validation
-- https://github.com/urish/ngx-moment
-- https://github.com/javiertelioz/angular2-csv
-
-Vue:
-- https://www.fullstack.io/30-days-of-vue/
-
-React:
-
-Ionic:
-- https://capacitor.ionicframework.com/
-
-
-## Blazor
-
-- https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
-- https://blazor-university.com/
-- https://chrissainty.com/
-- https://blazorise.com/
-
-## Unity
- 
-- https://unity.com/learn
-- https://github.com/LiamCaliceGameDev
-- https://blackthornprod-games.itch.io/
-- https://www.mixamo.com
-- https://syntystore.com/
-- https://www.beffio.com/
+- http://spark.apache.org/
+- http://cassandra.apache.org/
+- https://mongoosejs.com/
+- https://pouchdb.com/
+- https://github.com/coresmart/persistencejs
+- https://mongolab.com/
+- http://dexie.org/
+- https://www.sqlite.org/index.html
+- https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa
 
 
 ## ML - AI - BI - BD (unsorted)
@@ -473,6 +393,7 @@ DEEP - ML - Reinforcement Learning,
 
 NLP:
 - https://www.luis.ai/home
+- https://www.nexmo.com/
 
 BI:
 - https://spark.apache.org/
@@ -499,16 +420,22 @@ Google:
 Bot:
 - https://github.com/microsoft/botframework-solutions/
 
+BD:
+- https://spark.apache.org/
 
-- https://www.kaggle.com/
+Analysis:
 - https://facebook.github.io/prophet/
+
+Others:
+- https://www.kaggle.com/
 - https://github.com/trekhleb/homemade-machine-learning
 - https://github.com/iperov/DeepFaceLab
 - http://fritzing.org/home/
 - http://www.wolfram.com/cloud/
+- http://www.ni.com/ (Labview)
+- https://github.com/MichMich/MagicMirror
 
 ## DevOps - Hosting
-
 - https://gradle.org/
 - https://jenkins.io/
 - https://www.cloudflare.com/
@@ -516,6 +443,7 @@ Bot:
 - https://kubernetes.io/
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
 - https://gitexplorer.com
+- https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 - https://www.atlassian.com/  (JIRA,Confluence,Bamboo)
 - https://aws.amazon.com
 - https://www.heroku.com/
@@ -537,7 +465,6 @@ Bot:
 
 
 ## Games
-
 - https://www.unrealengine.com
 - https://unity3d.com
 - https://www.cryengine.com/
@@ -547,21 +474,23 @@ Bot:
 - Euphoria game engine
 
 ## Office
-
 - https://github.com/OfficeDev
 - https://developer.microsoft.com/en-us/office
 - https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-ins-with-angular2
 - https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/interop/walkthrough-office-programming
 - https://www.youtube.com/user/1OneSkill/videos
 - https://www.youtube.com/channel/UCKsfJnvC-HCoEQEEIKZIzQQ/videos
+- https://www.youtube.com/watch?v=TK0CJBaqvnY
+- https://slideforest.com/
+- https://graphicriver.net/item/massive-x-presentation-template/21482501
+
 
 ## APIs
-
 - https://any-api.com/
+- https://www.alphavantage.co/documentation/
 - https://www.programmableweb.com/apis/directory
 
 ## Log - Search - Message
-
 - https://www.fluentd.org/
 - https://www.algolia.com/
 - https://www.elastic.co/
@@ -570,20 +499,119 @@ Bot:
 - https://grafana.com/
 
 ## Testing website
-
 - https://web.dev/
 
-## Others unsorted
-
-- https://marketplace.visualstudio.com/
-- https://msdn.microsoft.com/magazine/msdn-magazine-issues
+## Regex
+- https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/az24scfc(v=vs.90)?redirectedfrom=MSDN
 - https://www.regexpal.com/
+- http://vbence.web.elte.hu/regex_leiras.html
+
+## Others unsorted
+- https://msdn.microsoft.com/magazine/msdn-magazine-issues
 - https://www.algoexpert.io/
 - https://github.com/Microsoft/react-native-windows
+- https://docs.microsoft.com/en-us/office/client-developer/excel/excel-home?redirectedfrom=MSDN (VBA)
+
+# Programming Languages/Frameworks/Libriaries:
+
+## ASP .NET
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
+- https://docs.elitenet.dk/asp-net-middleware-and-services
+- https://codinginfinite.com/best-top-dot-net-core-useful-libraries-open-source/
+- https://github.com/chsakell/aspnet-core-identity/
+- https://code-maze.com/aspnetcore-webapi-best-practices/
+
+## .NET
+- https://linqsamples.com/
+- https://archive.codeplex.com/?p=modernuicharts
+- https://www.hangfire.io/
+- https://grpc.io/blog/grpc-on-dotnetcore
+- https://github.com/dotnet/reactive
+- https://marketplace.visualstudio.com/
+- https://www.mono-project.com/
+- https://itextpdf.com/en
+- http://pdfsharp.com/PDFsharp/
+
+
+## JS,JSON stuffs 
+- https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
+- https://en.wikipedia.org/wiki/Timeline_of_web_browsers
+
+- https://yeoman.io/
+- https://www.epochconverter.com/
+
+- https://github.com/matthewmueller/x-ray ( Scraper )
+- https://github.com/lukehoban/es6features#readme
+- http://jsonplaceholder.typicode.com/ 
+
+- https://bestofjs.org/ 
+- https://github.com/ryanmcdermott/clean-code-javascript
+- https://jshint.com/
+- https://whatwebcando.today/
+- https://caniuse.com/
+- https://kangax.github.io/compat-table/es6/
+ 
+- https://stenciljs.com/
+- https://momentjs.com/
+- https://pivottable.js.org/examples/
+- https://gojs.net/latest/samples/index.html
+- https://jshint.com/
+
+NodeJS:
+- https://nestjs.com/
+- https://expressjs.com/
+- https://hapi.dev/
+- https://socket.io/
+- https://sailsjs.com/
+- https://www.meteor.com/
+- Mean.io
+- https://adonisjs.com/
+
+Static site generator:
+- https://gohugo.io/
+- https://jekyllrb.com/
+- https://www.gatsbyjs.org/
+- https://jamstack.org/ (not ssg)
+
+Angular:
+- https://github.com/ngrx
+- https://update.angular.io/
+- https://next.ngrx.io/
+- https://www.ag-grid.com/angular-grid/
+- https://augury.rangle.io/
+- Redux dev tools
+- https://github.com/yuyang041060120/ng2-validation
+- https://github.com/urish/ngx-moment
+- https://github.com/javiertelioz/angular2-csv
+
+Vue:
+- https://www.fullstack.io/30-days-of-vue/
+
+React:
+
+Ionic:
+- https://capacitor.ionicframework.com/
+
+
+## Blazor
+- https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+- https://blazor-university.com/
+- https://chrissainty.com/
+- https://blazorise.com/
+
+## Unity 
+- https://unity.com/learn
+- https://unity.com/learn/partner-courses
+- https://github.com/LiamCaliceGameDev
+- https://blackthornprod-games.itch.io/
+- https://www.mixamo.com
+- https://syntystore.com/
+- https://www.beffio.com/
+- https://www.codeandweb.com/tp-online/index.html
 
 
 ## Intresting (2017):
-
 Meglesni(Főbb frameworkok):
 React ,Vue,Angular 
 HTML,CSS,JQuery,JS
