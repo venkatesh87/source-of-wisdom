@@ -113,6 +113,7 @@ ASP CMS Frameworks:
 - Reactive How https://reactive.how/
 - .Net Tips https://thomaslevesque.com/
 - DJAM https://www.djamware.com/
+- ASPHacker https://asp.net-hacker.rocks/
 
 
 ## Forums 
@@ -151,12 +152,12 @@ Collections:
 
 - https://github.com/dodyg/practical-aspnetcore
 - https://github.com/topics/awesome
+- https://github.com/sindresorhus/awesome
 - https://github.com/AdrienTorris/awesome-blazor
 - https://github.com/StevenTCramer/awesome-blazor
 - https://github.com/mre/awesome-static-analysis
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/dypsilon/frontend-dev-bookmarks
-- https://github.com/sindresorhus/awesome
 - https://github.com/bnb/awesome-developer-streams
 - https://github.com/quozd/awesome-dotnet
 - https://github.com/thangchung/awesome-dotnet-core
@@ -193,9 +194,10 @@ Collections:
 - https://github.com/aspnetboilerplate  |  https://aspnetboilerplate.com/
 - https://github.com/Dotnet-Boxed
 - https://github.com/dotnet-architecture
-- https://store.akveo.com/
-- https://aspnetzero.com
 - https://github.com/emonney/QuickApp
+- https://store.akveo.com/
+- https://aspnetzero.com (not free)
+- https://flatlogic.com/templates/sing-app-angular-net-core-3 (not free)
 
 Web:
 - 
@@ -214,7 +216,7 @@ Web:
 - https://github.com/react-ui-kit/dribbble2react
 - https://github.com/EggDice
 - https://github.com/minutuslausus
-- https://github.com/RayViljoen?tab=repositories
+- https://github.com/RayViljoen
 
 Intresting:
 - Mean https://github.com/linnovate/mean
@@ -293,6 +295,8 @@ Ideas:
 - https://mdbootstrap.com/
 - https://getmdl.io/started/
 - https://js.devexpress.com/
+- https://github.com/galio-org/galio
+
 
 Sites:
 - https://www.akveo.com/
@@ -339,6 +343,7 @@ Usefull stuffs:
 
 ## ASP .NET
 
+- https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 - https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
 - https://docs.elitenet.dk/asp-net-middleware-and-services
 - https://www.hangfire.io/
@@ -349,6 +354,7 @@ Usefull stuffs:
 - https://code-maze.com/net-core-series/
 - https://github.com/dotnet/reactive
 
+
 ## Metrics
 
 - https://github.com/AppMetrics/AppMetrics
@@ -358,58 +364,154 @@ Usefull stuffs:
 - https://md5decrypt.net/en/Sha512/
 
 ## Security
-
 - https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+- https://12factor.net/ (rules)
+- https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0
+- https://auth0.auth0.com/
+- https://jwt.io/
 
 ## DBs
 
 - https://sqliteonline.com/
 
 
-## JS libraries
+## JS,JSON stuffs
  
- - https://github.com/matthewmueller/x-ray ( Scraper )
- - https://github.com/lukehoban/es6features#readme
- - https://github.com/ryanmcdermott/clean-code-javascript
+- https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
+- https://en.wikipedia.org/wiki/Timeline_of_web_browsers
 
-## Angular
+- https://yeoman.io/
+- https://www.epochconverter.com/
 
+- https://github.com/matthewmueller/x-ray ( Scraper )
+- https://github.com/lukehoban/es6features#readme
+- http://jsonplaceholder.typicode.com/ 
+
+- https://bestofjs.org/ 
+- https://github.com/ryanmcdermott/clean-code-javascript
+- https://jshint.com/
+- https://whatwebcando.today/
+- https://caniuse.com/
+- https://kangax.github.io/compat-table/es6/
+ 
+- https://stenciljs.com/
+- https://pivottable.js.org/examples/
+- https://gojs.net/latest/samples/index.html
+
+NodeJS:
+- https://nestjs.com/
+- https://expressjs.com/
+- https://hapi.dev/
+- https://socket.io/
+- https://sailsjs.com/
+- https://www.meteor.com/
+- Mean.io
+- https://adonisjs.com/
+
+Static site generator:
+- https://gohugo.io/
+- https://jekyllrb.com/
+- https://www.gatsbyjs.org/
+- https://jamstack.org/ (not ssg)
+
+Angular:
+- https://update.angular.io/
 - https://next.ngrx.io/
 - https://www.ag-grid.com/angular-grid/
+- https://augury.rangle.io/
+- Redux dev tools
+- https://github.com/yuyang041060120/ng2-validation
+- https://github.com/urish/ngx-moment
+- https://github.com/javiertelioz/angular2-csv
 
-## ML - AI (unsorted)
+Vue:
+- https://www.fullstack.io/30-days-of-vue/
 
-- https://cloud.google.com/automl/
-- https://www.kaggle.com/
-- https://github.com/microsoft/botframework-solutions/
-- https://github.com/iperov/DeepFaceLab
+React:
+
+Ionic:
+- https://capacitor.ionicframework.com/
+
+
+## Blazor
+
+- https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+- https://blazor-university.com/
+- https://chrissainty.com/
+- https://blazorise.com/
+
+## Unity
+ 
+- https://unity.com/learn
+- https://github.com/LiamCaliceGameDev
+- https://blackthornprod-games.itch.io/
+- https://www.mixamo.com
+- https://syntystore.com/
+- https://www.beffio.com/
+
+
+## ML - AI - BI - BD (unsorted)
+
+ML Agent:
+- https://www.tensorflow.org/tensorboard/get_started
+- https://www.anaconda.com/ 
 - https://unity3d.com/machine-learning
-- https://facebook.github.io/prophet/
-- https://github.com/dotnet/machinelearning-samples
-- https://github.com/microsoft/CNTK
 - https://github.com/Unity-Technologies/ml-agents
-- https://github.com/trekhleb/homemade-machine-learning
-- https://en.wikipedia.org/wiki/ML.NET
+- https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
+- https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Basic-Guide.md
+- https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-PPO.md
+- https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-Curriculum-Learning.md
+- https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-Tensorboard.md
+
+BI:
+- https://www.tableau.com/#hero-video
+
+DEEP - ML - Reinforcement Learning, 
+- https://pytorch.org/
+- https://keras.io/
+- https://www.tensorflow.org/
+
+NLP:
 - https://www.luis.ai/home
+
+BI:
+- https://spark.apache.org/
+
+MS:
+- http://accord-framework.net/
+- https://en.wikipedia.org/wiki/ML.NET
 - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
 - https://github.com/dotnet/machinelearning-samples/blob/master/docs/COMMUNITY-SAMPLES.md
 - https://github.com/dotnet/machinelearning-samples
-- https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
-- https://www.microsoft.com/en-us/cognitive-toolkit/
 - http://accord-framework.net/
-- https://www.tensorflow.org/
-- https://pytorch.org/
+- https://www.microsoft.com/en-us/cognitive-toolkit/
+- https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk
+- https://www.programmableweb.com/api/microsoft-project-oxford-vision
+- https://github.com/dotnet/machinelearning-samples
+- https://github.com/microsoft/CNTK
+
+Google:
+- https://cloud.google.com/automl/
 - https://developers.google.com/ml-kit/
 - https://cloud.google.com/vision/
 - https://cloud.google.com/automl/
-- https://www.programmableweb.com/api/microsoft-project-oxford-vision
-- https://spark.apache.org/
+
+Bot:
+- https://github.com/microsoft/botframework-solutions/
+
+
+- https://www.kaggle.com/
+- https://facebook.github.io/prophet/
+- https://github.com/trekhleb/homemade-machine-learning
+- https://github.com/iperov/DeepFaceLab
+- http://fritzing.org/home/
+- http://www.wolfram.com/cloud/
 
 ## DevOps - Hosting
 
-
 - https://gradle.org/
 - https://jenkins.io/
+- https://www.cloudflare.com/
 - https://hub.docker.com/
 - https://kubernetes.io/
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
@@ -424,6 +526,7 @@ Usefull stuffs:
 - https://pages.github.com/
 
 - https://dotnet.microsoft.com/apps/aspnet/hosting
+- https://www.smarterasp.net/
 - https://www.hostinger.com/
 - https://www.forpsi.hu/
 - https://webdigital.hu/index.php
@@ -466,51 +569,18 @@ Usefull stuffs:
 - https://www.rabbitmq.com/
 - https://grafana.com/
 
+## Testing website
+
+- https://web.dev/
+
 ## Others unsorted
 
-- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
 - https://marketplace.visualstudio.com/
-- https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
-- https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0
-- http://jsonplaceholder.typicode.com/
-- https://jshint.com/
-- https://whatwebcando.today/
-- https://caniuse.com/
-- https://kangax.github.io/compat-table/es6/
-- https://www.epochconverter.com/
-- https://www.cloudflare.com/
 - https://msdn.microsoft.com/magazine/msdn-magazine-issues
 - https://www.regexpal.com/
-- https://update.angular.io/
-- https://www.fullstack.io/30-days-of-vue/
-- http://fritzing.org/home/
-- https://syntystore.com/
-- https://unity3d.com/learn/courses
-- https://en.wikipedia.org/wiki/Timeline_of_web_browsers
-- https://github.com/login/oauth/authorize?client_id=234472f42264e3374002&state=u0v0amm27jg&scope=read:org,user:email
-- https://bestofjs.org/
-- http://www.wolfram.com/cloud/
 - https://www.algoexpert.io/
-- https://12factor.net/
-- https://stenciljs.com/
-- https://jamstack.org/
-- https://auth0.auth0.com/
-- https://jwt.io/
-- https://yeoman.io/
-- https://gohugo.io/
-- https://jekyllrb.com/
-- https://www.gatsbyjs.org/
-- https://nestjs.com/
-- https://www.cloudflare.com/
-- https://pivottable.js.org/examples/
-- https://gojs.net/latest/samples/index.html
-- https://web.dev/
 - https://github.com/Microsoft/react-native-windows
-- https://capacitor.ionicframework.com/
-- https://github.com/yuyang041060120/ng2-validation
-- https://github.com/urish/ngx-moment
-- https://github.com/javiertelioz/angular2-csv
-- https://github.com/galio-org/galio
+
 
 ## Intresting (2017):
 
