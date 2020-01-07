@@ -89,8 +89,6 @@ ASP CMS Frameworks:
  - https://www.nopcommerce.com/
   -https://github.com/InstantASP/plato (user community)
 
- Bot framework:
- - 
 
 ## Blogs
 
@@ -114,6 +112,7 @@ ASP CMS Frameworks:
 - Clean Coder https://blog.cleancoder.com/
 - Reactive How https://reactive.how/
 - .Net Tips https://thomaslevesque.com/
+- DJAM https://www.djamware.com/
 
 
 ## Forums 
@@ -148,6 +147,8 @@ Stacks:
 
 Collections: 
 - https://github.com/kaxap/arl
+- https://github.com/charlax/professional-programming
+
 - https://github.com/dodyg/practical-aspnetcore
 - https://github.com/topics/awesome
 - https://github.com/AdrienTorris/awesome-blazor
@@ -155,7 +156,6 @@ Collections:
 - https://github.com/mre/awesome-static-analysis
 - https://github.com/LisaDziuba/Awesome-Design-Tools
 - https://github.com/dypsilon/frontend-dev-bookmarks
-- https://github.com/charlax/professional-programming
 - https://github.com/sindresorhus/awesome
 - https://github.com/bnb/awesome-developer-streams
 - https://github.com/quozd/awesome-dotnet
@@ -183,6 +183,9 @@ Collections:
 - https://github.com/ReynaldAdolphe
 - https://github.com/CodAffection
 - https://github.com/didinj
+- https://github.com/damienbod
+- https://github.com/FabianGosebrink
+- https://github.com/pgcourses
 
 .Net BoilerPlate:
 
@@ -195,6 +198,7 @@ Collections:
 - https://github.com/emonney/QuickApp
 
 Web:
+- 
 - https://github.com/fireship-io
 - https://github.com/eggheadio
 - https://github.com/eggheadio-projects
@@ -207,6 +211,10 @@ Web:
 - https://github.com/Colt
 - https://github.com/akveo
 - https://github.com/toddmotto
+- https://github.com/react-ui-kit/dribbble2react
+- https://github.com/EggDice
+- https://github.com/minutuslausus
+- https://github.com/RayViljoen?tab=repositories
 
 Intresting:
 - Mean https://github.com/linnovate/mean
@@ -264,6 +272,8 @@ Sketch, Adobe XD, Figma , Framer, InVision
 
 - http://codingheroes.io/resources/
 - https://uixninja.com/
+- https://startbootstrap.com/bootstrap-resources/
+- https://dribbble.com/uixninja
 
 Ideas:
 - https://www.behance.net/
@@ -272,6 +282,7 @@ Ideas:
 
  Libs or frameworks: 
 - https://getbootstrap.com/
+- https://www.primefaces.org/primeng/#/
 - https://material.io/design/
 - https://material-ui.com/
 - https://semantic-ui.com/
@@ -279,7 +290,6 @@ Ideas:
 - https://material.angular.io/
 - https://valor-software.com/ngx-bootstrap/#/
 - https://ng-bootstrap.github.io/#/home
-- https://www.primefaces.org/primeng/#/
 - https://mdbootstrap.com/
 - https://getmdl.io/started/
 - https://js.devexpress.com/
@@ -290,8 +300,10 @@ Sites:
 - https://html5up.net/
 - https://templated.co/
 - https://freehtml5.co/
+- https://www.html5xcss3.com/
 
 Stores:
+- https://www.styleshout.com/free-templates/
 - https://bootswatch.com/
 - https://wrapbootstrap.com
 - https://themehunt.com/
@@ -299,6 +311,8 @@ Stores:
 - https://startbootstrap.com/
 - https://envato.com/
 - https://www.bootstrapzero.com/
+- https://colorlib.com/wp/templates/
+- https://www.zerotheme.com/
 
 Usefull stuffs:
 - https://www.uxpin.com/
@@ -317,7 +331,11 @@ Usefull stuffs:
 - http://www.kammerl.de/ascii/AsciiSignature.php
 - https://pivottable.js.org/examples/
 - https://gojs.net/latest/index.html
-
+- https://2019.stateofcss.com/
+- https://redstapler.co/15-stunning-css-loading-animation/
+- https://tympanus.net/Tutorials/CaptionHoverEffects/index4.html
+- https://startbootstrap.com/snippets/
+- https://fontflipper.com/upload
 
 ## ASP .NET
 
@@ -329,16 +347,40 @@ Usefull stuffs:
 - https://github.com/chsakell/aspnet-core-identity/
 - https://code-maze.com/aspnetcore-webapi-best-practices/
 - https://code-maze.com/net-core-series/
+- https://github.com/dotnet/reactive
 
 ## Metrics
+
 - https://github.com/AppMetrics/AppMetrics
 
 ## Encrypt & Decrypt
+
 - https://md5decrypt.net/en/Sha512/
+
+## Security
+
+- https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
+
+## DBs
+
+- https://sqliteonline.com/
+
+
+## JS libraries
+ 
+ - https://github.com/matthewmueller/x-ray ( Scraper )
+ - https://github.com/lukehoban/es6features#readme
+ - https://github.com/ryanmcdermott/clean-code-javascript
+
+## Angular
+
+- https://next.ngrx.io/
+- https://www.ag-grid.com/angular-grid/
 
 ## ML - AI (unsorted)
 
-
+- https://cloud.google.com/automl/
+- https://www.kaggle.com/
 - https://github.com/microsoft/botframework-solutions/
 - https://github.com/iperov/DeepFaceLab
 - https://unity3d.com/machine-learning
@@ -365,6 +407,7 @@ Usefull stuffs:
 
 ## DevOps - Hosting
 
+
 - https://gradle.org/
 - https://jenkins.io/
 - https://hub.docker.com/
@@ -379,7 +422,16 @@ Usefull stuffs:
 - http://datadrop.wolframcloud.com/
 - https://www.netlify.com/
 - https://pages.github.com/
+
+- https://dotnet.microsoft.com/apps/aspnet/hosting
 - https://www.hostinger.com/
+- https://www.forpsi.hu/
+- https://webdigital.hu/index.php
+- https://www.namecheap.com/
+- https://www.bluehost.com/hosting/shared
+- https://www.c-sharpcorner.com/article/free-web-app-hosting-on-azure/
+- https://dottutorials.net/best-fast-cheap-windows-hosting-asp-net-core/
+
 
 ## Games
 
@@ -453,6 +505,12 @@ Usefull stuffs:
 - https://pivottable.js.org/examples/
 - https://gojs.net/latest/samples/index.html
 - https://web.dev/
+- https://github.com/Microsoft/react-native-windows
+- https://capacitor.ionicframework.com/
+- https://github.com/yuyang041060120/ng2-validation
+- https://github.com/urish/ngx-moment
+- https://github.com/javiertelioz/angular2-csv
+- https://github.com/galio-org/galio
 
 ## Intresting (2017):
 
