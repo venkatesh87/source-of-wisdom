@@ -249,10 +249,13 @@ Intresting:
 - https://www.codingame.com/multiplayer
 
 # Charts 
-- https://d3js.org/
+- https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
+- https://d3js.org/   (https://bl.ocks.org/mbostock)
+- http://nvd3.org/
 - https://www.chartjs.org/
+- http://echarts.baidu.com/echarts2/doc/example-en.html
 - https://threejs.org/
-- https://developers.google.com/chart/
+- https://developers.google.com/chart/interactive/docs/gallery
 - https://ecomfe.github.io/echarts-examples/public/index.html
 - https://www.highcharts.com/
 - https://www.amcharts.com/demos/
@@ -266,6 +269,9 @@ Intresting:
 - http://resources.jointjs.com/tutorial
 - https://echarts.baidu.com
 - https://plot.ly/
+- https://gojs.net/latest/samples/index.html
+- http://www.jointjs.com
+- http://jtblin.github.io/angular-chart.js/
 - (.NET) https://lvcharts.net/
 - (.NET) https://archive.codeplex.com/?p=modernuicharts
 
@@ -296,6 +302,7 @@ Ideas:
 - https://getmdl.io/started/
 - https://js.devexpress.com/
 - https://github.com/galio-org/galio
+- https://github.com/AvaloniaUI
 
 
 Sites:
@@ -324,6 +331,7 @@ Usefull stuffs:
 - http://www.lorumipse.hu/
 - https://www.iconfinder.com/
 - https://iconverticons.com/
+- https://nicescroll.areaaperta.com/demo/
 - http://konpa.github.io/devicon/
 - https://fontawesome.com/
 - https://fonts.google.com/
@@ -341,6 +349,13 @@ Usefull stuffs:
 - https://startbootstrap.com/snippets/
 - https://fontflipper.com/upload
 
+Bootstrap:
+- https://bootstrapstudio.io/
+- https://bootswatch.com/
+- https://startbootstrap.com/
+- https://www.bootstrapzero.com/
+- https://themehunt.com/latest
+- https://wrapbootstrap.com
 
 ## Metrics
 - https://github.com/AppMetrics/AppMetrics
@@ -357,6 +372,7 @@ Usefull stuffs:
 
 ## DBs
 - https://www.connectionstrings.com/
+- https://cloudcraft.co/
 - https://firebase.google.com/
 - https://sqliteonline.com/
 - http://spark.apache.org/
@@ -506,11 +522,16 @@ Others:
 - https://www.regexpal.com/
 - http://vbence.web.elte.hu/regex_leiras.html
 
+## Salary
+- https://stackoverflow.com/jobs/salary
+- https://ithon.info/
+
 ## Others unsorted
 - https://msdn.microsoft.com/magazine/msdn-magazine-issues
 - https://www.algoexpert.io/
 - https://github.com/Microsoft/react-native-windows
 - https://docs.microsoft.com/en-us/office/client-developer/excel/excel-home?redirectedfrom=MSDN (VBA)
+- https://send.firefox.com/
 
 # Programming Languages/Frameworks/Libriaries:
 
@@ -540,6 +561,7 @@ Others:
 
 - https://yeoman.io/
 - https://www.epochconverter.com/
+- https://bundlephobia.com/
 
 - https://github.com/matthewmueller/x-ray ( Scraper )
 - https://github.com/lukehoban/es6features#readme
@@ -553,10 +575,13 @@ Others:
 - https://kangax.github.io/compat-table/es6/
  
 - https://stenciljs.com/
+- https://www.webcomponents.org/
 - https://momentjs.com/
 - https://pivottable.js.org/examples/
-- https://gojs.net/latest/samples/index.html
 - https://jshint.com/
+- http://playerjs.io/
+- https://datatables.net/examples/index
+
 
 NodeJS:
 - https://nestjs.com/
@@ -573,6 +598,7 @@ Static site generator:
 - https://jekyllrb.com/
 - https://www.gatsbyjs.org/
 - https://jamstack.org/ (not ssg)
+- https://webflow.com/ (not ssg)
 
 Angular:
 - https://github.com/ngrx
@@ -584,15 +610,29 @@ Angular:
 - https://github.com/yuyang041060120/ng2-validation
 - https://github.com/urish/ngx-moment
 - https://github.com/javiertelioz/angular2-csv
+- https://reactive.how/
+- https://ng-bootstrap.github.io/#/home
+- https://programmingwithmosh.com/angular/essential-vscode-extensions-for-angular-developers/
+
+AngularJS:
+- http://krispo.github.io/angular-nvd3/#/
+- http://l-lin.github.io/angular-datatables/archives/#/withPromise
+- https://github.com/johnpapa/angular-styleguide
+- https://scotch.io/tutorials/angularjs-1-x-fundamentals-part-2
 
 Vue:
 - https://www.fullstack.io/30-days-of-vue/
+- https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/
 
 React:
+- https://akveo.github.io/react-native-ui-kitten/#/home
 
 Ionic:
 - https://capacitor.ionicframework.com/
 
+JQuery:
+- http://jquerycards.com/
+- https://cdnjs.com/libraries/jquery.nicescroll
 
 ## Blazor
 - https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
