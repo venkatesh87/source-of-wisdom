@@ -94,6 +94,7 @@ Jose Portilla:
 - Python for Financial Analysis and Algorithmic Trading
 - Python for Time Series Data Analysis
 - Complete Tensorflow 2 and Keras Deep Learning Bootcamp
+- Python for Data Science and Machine Learning Bootcamp
 
 Brad Traversy:
 - Modern HTML & CSS From The Beginning (Including Sass)
@@ -108,3 +109,4 @@ Other:
 - Unity Game Development: Create 2D And 3D Games With C#
 - AI Flight with Unity ML-Agents
 - Build an app with ASPNET Core and Angular from scratch
+- Complete guide to building an app with .Net Core and React
