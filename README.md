@@ -192,6 +192,7 @@ Collections:
 - https://github.com/damienbod
 - https://github.com/FabianGosebrink
 - https://github.com/pgcourses
+- https://github.com/neilcummings ( https://github.com/TryCatchLearn )
 
 .Net BoilerPlate:
 - https://github.com/abpframework/abp   |  https://abp.io/
