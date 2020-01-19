@@ -1,12 +1,13 @@
 ﻿# Learning materials
 
 ## Trends
+
 - https://www.npmtrends.com/
 - https://stackshare.io/
 - https://bestofjs.org/
 
-
 ## Sites
+
 - MS Learn https://docs.microsoft.com/hu-hu/learn/
 - Udemy https://www.udemy.com/
 - PluralSight https://www.pluralsight.com/
@@ -25,7 +26,8 @@
 - Thinkster https://thinkster.io/
 
 Free:
-- Tutorial Logic  https://www.tutorialslogic.com/
+
+- Tutorial Logic https://www.tutorialslogic.com/
 - MS Learn https://dotnet.microsoft.com/learn/web
 - Udacity https://eu.udacity.com/
 - Khanacademy https://www.khanacademy.org/
@@ -49,6 +51,7 @@ Free:
 - NodeSchool https://nodeschool.io/
 
 Docs / Others:
+
 - https://discoverdot.net/
 - https://aspnetboilerplate.com/
 - https://dotnet.microsoft.com/platform/community
@@ -67,6 +70,7 @@ Docs / Others:
 - https://svelte.dev/
 
 Mobile:
+
 - https://cordova.apache.org/docs/en/latest/
 - https://docs.microsoft.com/hu-hu/xamarin/
 - https://flutter.dev/docs
@@ -75,6 +79,7 @@ Mobile:
 - https://ionicframework.com/docs/intro/installation/
 
 Testing:
+
 - https://jasmine.github.io/
 - https://www.protractortest.org/#/
 - https://www.seleniumhq.org/
@@ -82,6 +87,7 @@ Testing:
 - https://ghostinspector.com/
 
 Usefull:
+
 - https://www.hangfire.io/
 - https://www.red-gate.com/
 - https://www.linqpad.net/
@@ -90,13 +96,13 @@ Usefull:
 - https://chocolatey.org/
 
 ASP CMS Frameworks:
- - https://github.com/grandnode/grandnode
- - https://github.com/simplcommerce/SimplCommerce
- - https://www.nopcommerce.com/
-  -https://github.com/InstantASP/plato (user community)
 
+- https://github.com/grandnode/grandnode
+- https://github.com/simplcommerce/SimplCommerce
+- https://www.nopcommerce.com/ -https://github.com/InstantASP/plato (user community)
 
 ## Blogs
+
 - ASP.NET https://devblogs.microsoft.com/aspnet/
 - FullStack Mark https://fullstackmark.com/
 - Jason Watmore http://jasonwatmore.com/
@@ -121,11 +127,12 @@ ASP CMS Frameworks:
 - ASPHacker https://asp.net-hacker.rocks/
 - Reiter https://reiteristvan.wordpress.com/
 
+## Forums
 
-## Forums 
 - https://forums.asp.net/
 
 ## Youtube channels
+
 - Academic https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/videos
 - Brad Traversy https://www.youtube.com/user/TechGuyWeb/videos
 - Wes Doyle https://www.youtube.com/channel/UCfniixfhHqpIGbU7z2JCNJw/videos
@@ -145,11 +152,11 @@ ASP CMS Frameworks:
 ## Github
 
 Stacks:
+
 - https://awesomestacks.dev/
 - https://github.com/dmitry-pavlov/realworld
 
-
-Collections: 
+Collections:
 
 - https://github.com/florinpop17/app-ideas
 - https://github.com/kaxap/arl
@@ -176,6 +183,7 @@ Collections:
 - https://github.com/bnb/awesome-speakers
 
 .Net:
+
 - https://github.com/ardalis
 - https://github.com/asadsahi
 - https://github.com/cornflourblue
@@ -195,8 +203,9 @@ Collections:
 - https://github.com/neilcummings ( https://github.com/TryCatchLearn )
 
 .Net BoilerPlate:
-- https://github.com/abpframework/abp   |  https://abp.io/
-- https://github.com/aspnetboilerplate  |  https://aspnetboilerplate.com/
+
+- https://github.com/abpframework/abp | https://abp.io/
+- https://github.com/aspnetboilerplate | https://aspnetboilerplate.com/
 - https://github.com/Dotnet-Boxed
 - https://github.com/dotnet-architecture
 - https://github.com/emonney/QuickApp
@@ -205,6 +214,7 @@ Collections:
 - https://flatlogic.com/templates/sing-app-angular-net-core-3 (not free)
 
 Web:
+
 - https://github.com/fireship-io
 - https://github.com/eggheadio
 - https://github.com/eggheadio-projects
@@ -223,10 +233,12 @@ Web:
 - https://github.com/RayViljoen
 
 Intresting:
+
 - Mean https://github.com/linnovate/mean
 - Mern https://github.com/Hashnode/mern-starter
 
-# Online Editors 
+# Online Editors
+
 - https://coder.com/
 - https://codesandbox.io/
 - https://stackblitz.com/
@@ -237,7 +249,8 @@ Intresting:
 - https://play.nativescript.org
 - https://www.w3schools.com/tryit/
 
-# Codes 
+# Codes
+
 - https://www.w3schools.com/default.asp
 - http://www.java2s.com/
 - http://csharp.net-informations.com/
@@ -249,9 +262,10 @@ Intresting:
 - https://sourceforge.net/
 - https://www.codingame.com/multiplayer
 
-# Charts 
+# Charts
+
 - https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
-- https://d3js.org/   (https://bl.ocks.org/mbostock)
+- https://d3js.org/ (https://bl.ocks.org/mbostock)
 - http://nvd3.org/
 - https://www.chartjs.org/
 - http://echarts.baidu.com/echarts2/doc/example-en.html
@@ -277,6 +291,7 @@ Intresting:
 - (.NET) https://archive.codeplex.com/?p=modernuicharts
 
 # Design
+
 Sketch, Adobe XD, Figma , Framer, InVision
 
 - http://codingheroes.io/resources/
@@ -285,11 +300,13 @@ Sketch, Adobe XD, Figma , Framer, InVision
 - https://dribbble.com/uixninja
 
 Ideas:
+
 - https://www.behance.net/
 - https://dribbble.com/
 - https://pinterest.com/
 
- Libs or frameworks: 
+Libs or frameworks:
+
 - https://getbootstrap.com/
 - https://www.primefaces.org/primeng/#/
 - https://material.io/design/
@@ -305,8 +322,8 @@ Ideas:
 - https://github.com/galio-org/galio
 - https://github.com/AvaloniaUI
 
-
 Sites:
+
 - https://www.akveo.com/
 - https://www.creative-tim.com/
 - https://html5up.net/
@@ -315,6 +332,7 @@ Sites:
 - https://www.html5xcss3.com/
 
 Stores:
+
 - https://www.styleshout.com/free-templates/
 - https://bootswatch.com/
 - https://wrapbootstrap.com
@@ -327,6 +345,7 @@ Stores:
 - https://www.zerotheme.com/
 
 Usefull stuffs:
+
 - https://www.uxpin.com/
 - https://www.freepik.com/
 - http://www.lorumipse.hu/
@@ -351,6 +370,7 @@ Usefull stuffs:
 - https://fontflipper.com/upload
 
 Bootstrap:
+
 - https://bootstrapstudio.io/
 - https://bootswatch.com/
 - https://startbootstrap.com/
@@ -359,12 +379,15 @@ Bootstrap:
 - https://wrapbootstrap.com
 
 ## Metrics
+
 - https://github.com/AppMetrics/AppMetrics
 
 ## Encrypt & Decrypt
+
 - https://md5decrypt.net/en/Sha512/
 
 ## Security
+
 - https://www.owasp.org/index.php/OWASP_Secure_Coding_Practices_Checklist
 - https://12factor.net/ (rules)
 - https://docs.google.com/spreadsheets/d/1tAX5ZJzluilhoYKjra-uHbMCZraaQkqIHl3RIQ8mVkM/edit#gid=0
@@ -372,6 +395,7 @@ Bootstrap:
 - https://jwt.io/
 
 ## DBs
+
 - https://www.connectionstrings.com/
 - https://cloudcraft.co/
 - https://firebase.google.com/
@@ -386,12 +410,12 @@ Bootstrap:
 - https://www.sqlite.org/index.html
 - https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa
 
-
 ## ML - AI - BI - BD (unsorted)
 
 ML Agent:
+
 - https://www.tensorflow.org/tensorboard/get_started
-- https://www.anaconda.com/ 
+- https://www.anaconda.com/
 - https://unity3d.com/machine-learning
 - https://github.com/Unity-Technologies/ml-agents
 - https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md
@@ -401,21 +425,35 @@ ML Agent:
 - https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Using-Tensorboard.md
 
 BI:
+
 - https://www.tableau.com/#hero-video
 
-DEEP - ML - Reinforcement Learning, 
+DEEP - ML - Reinforcement Learning,
+
 - https://pytorch.org/
 - https://keras.io/
 - https://www.tensorflow.org/
 
+-jupyter
+-lxml
+-matplotlib
+-pandas
+-Pillow
+-scikit-learn
+-seaborn
+-tensorflow
+
 NLP:
+
 - https://www.luis.ai/home
 - https://www.nexmo.com/
 
 BI:
+
 - https://spark.apache.org/
 
 MS:
+
 - http://accord-framework.net/
 - https://en.wikipedia.org/wiki/ML.NET
 - https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet
@@ -429,21 +467,26 @@ MS:
 - https://github.com/microsoft/CNTK
 
 Google:
+
 - https://cloud.google.com/automl/
 - https://developers.google.com/ml-kit/
 - https://cloud.google.com/vision/
 - https://cloud.google.com/automl/
 
 Bot:
+
 - https://github.com/microsoft/botframework-solutions/
 
 BD:
+
 - https://spark.apache.org/
 
 Analysis:
+
 - https://facebook.github.io/prophet/
 
 Others:
+
 - https://www.kaggle.com/
 - https://github.com/trekhleb/homemade-machine-learning
 - https://github.com/iperov/DeepFaceLab
@@ -453,6 +496,7 @@ Others:
 - https://github.com/MichMich/MagicMirror
 
 ## DevOps - Hosting
+
 - https://gradle.org/
 - https://jenkins.io/
 - https://www.cloudflare.com/
@@ -461,7 +505,7 @@ Others:
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
 - https://gitexplorer.com
 - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
-- https://www.atlassian.com/  (JIRA,Confluence,Bamboo)
+- https://www.atlassian.com/ (JIRA,Confluence,Bamboo)
 - https://aws.amazon.com
 - https://www.heroku.com/
 - https://firebase.google.com/
@@ -480,8 +524,8 @@ Others:
 - https://www.c-sharpcorner.com/article/free-web-app-hosting-on-azure/
 - https://dottutorials.net/best-fast-cheap-windows-hosting-asp-net-core/
 
-
 ## Games
+
 - https://www.unrealengine.com
 - https://unity3d.com
 - https://www.cryengine.com/
@@ -491,6 +535,7 @@ Others:
 - Euphoria game engine
 
 ## Office
+
 - https://github.com/OfficeDev
 - https://developer.microsoft.com/en-us/office
 - https://docs.microsoft.com/en-us/office/dev/add-ins/develop/add-ins-with-angular2
@@ -501,13 +546,14 @@ Others:
 - https://slideforest.com/
 - https://graphicriver.net/item/massive-x-presentation-template/21482501
 
-
 ## APIs
+
 - https://any-api.com/
 - https://www.alphavantage.co/documentation/
 - https://www.programmableweb.com/apis/directory
 
 ## Log - Search - Message
+
 - https://www.fluentd.org/
 - https://www.algolia.com/
 - https://www.elastic.co/
@@ -516,18 +562,22 @@ Others:
 - https://grafana.com/
 
 ## Testing website
+
 - https://web.dev/
 
 ## Regex
+
 - https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/az24scfc(v=vs.90)?redirectedfrom=MSDN
 - https://www.regexpal.com/
 - http://vbence.web.elte.hu/regex_leiras.html
 
 ## Salary
+
 - https://stackoverflow.com/jobs/salary
 - https://ithon.info/
 
 ## Others unsorted
+
 - https://msdn.microsoft.com/magazine/msdn-magazine-issues
 - https://www.algoexpert.io/
 - https://github.com/Microsoft/react-native-windows
@@ -537,6 +587,7 @@ Others:
 # Programming Languages/Frameworks/Libriaries:
 
 ## ASP .NET
+
 - https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 - https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
 - https://docs.elitenet.dk/asp-net-middleware-and-services
@@ -545,6 +596,7 @@ Others:
 - https://code-maze.com/aspnetcore-webapi-best-practices/
 
 ## .NET
+
 - https://linqsamples.com/
 - https://archive.codeplex.com/?p=modernuicharts
 - https://www.hangfire.io/
@@ -555,8 +607,8 @@ Others:
 - https://itextpdf.com/en
 - http://pdfsharp.com/PDFsharp/
 
+## JS,JSON stuffs
 
-## JS,JSON stuffs 
 - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
 - https://en.wikipedia.org/wiki/Timeline_of_web_browsers
 
@@ -566,15 +618,15 @@ Others:
 
 - https://github.com/matthewmueller/x-ray ( Scraper )
 - https://github.com/lukehoban/es6features#readme
-- http://jsonplaceholder.typicode.com/ 
+- http://jsonplaceholder.typicode.com/
 
-- https://bestofjs.org/ 
+- https://bestofjs.org/
 - https://github.com/ryanmcdermott/clean-code-javascript
 - https://jshint.com/
 - https://whatwebcando.today/
 - https://caniuse.com/
 - https://kangax.github.io/compat-table/es6/
- 
+
 - https://stenciljs.com/
 - https://www.webcomponents.org/
 - https://momentjs.com/
@@ -583,8 +635,8 @@ Others:
 - http://playerjs.io/
 - https://datatables.net/examples/index
 
-
 NodeJS:
+
 - https://nestjs.com/
 - https://expressjs.com/
 - https://hapi.dev/
@@ -595,6 +647,7 @@ NodeJS:
 - https://adonisjs.com/
 
 Static site generator:
+
 - https://gohugo.io/
 - https://jekyllrb.com/
 - https://www.gatsbyjs.org/
@@ -602,6 +655,7 @@ Static site generator:
 - https://webflow.com/ (not ssg)
 
 Angular:
+
 - https://github.com/ngrx
 - https://update.angular.io/
 - https://next.ngrx.io/
@@ -616,32 +670,39 @@ Angular:
 - https://programmingwithmosh.com/angular/essential-vscode-extensions-for-angular-developers/
 
 AngularJS:
+
 - http://krispo.github.io/angular-nvd3/#/
 - http://l-lin.github.io/angular-datatables/archives/#/withPromise
 - https://github.com/johnpapa/angular-styleguide
 - https://scotch.io/tutorials/angularjs-1-x-fundamentals-part-2
 
 Vue:
+
 - https://www.fullstack.io/30-days-of-vue/
 - https://www.sitepoint.com/creating-beautiful-charts-vue-chart-js/
 
 React:
+
 - https://akveo.github.io/react-native-ui-kitten/#/home
 
 Ionic:
+
 - https://capacitor.ionicframework.com/
 
 JQuery:
+
 - http://jquerycards.com/
 - https://cdnjs.com/libraries/jquery.nicescroll
 
 ## Blazor
+
 - https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 - https://blazor-university.com/
 - https://chrissainty.com/
 - https://blazorise.com/
 
-## Unity 
+## Unity
+
 - https://unity.com/learn
 - https://unity.com/learn/partner-courses
 - https://github.com/LiamCaliceGameDev
@@ -651,10 +712,10 @@ JQuery:
 - https://www.beffio.com/
 - https://www.codeandweb.com/tp-online/index.html
 
-
 ## Intresting (2017):
+
 Meglesni(Főbb frameworkok):
-React ,Vue,Angular 
+React ,Vue,Angular
 HTML,CSS,JQuery,JS
 Electron,NodeJS
 React-Native,Ionic,Cordova,Xamarin,NativeScript,Flutter
@@ -664,11 +725,11 @@ Firebase ,Heroku,https://datadrop.wolframcloud.com/,Amazon AWS,github pages,Neti
 Jasmine-Selenium,Protactor,Karma,Ghost Inspector
 PhantomJS,CasperJS,NodeJS Cheerio
 ASP.Net /Core , Resharper,HangFire,Blazor
-Machine Learning-Big Data 
+Machine Learning-Big Data
 AI, Cognitive Serrvices,Tensorflow,ML.Net,Bot,Project Oxford Vision
 SQL
 Unity
- 
+
 DB:
 -SQL,DB2,MySQL,Oracle,PostGre,Mongo specialitások
 -PouchDb/CouchDB
@@ -678,23 +739,11 @@ DB:
 -RethinkDb
 -Cosmos
 -Raven,ReThink,,Redis
-Informatika               
+Informatika  
 Grafika
 Unreal-Unity-CryEngine,XNA,Cocos-Phaser,Euphoria
-Zbrush+Vue+3D Studio              
-       
+Zbrush+Vue+3D Studio  
+  
 Robotika:
 RPI,Arduino
 IOT
-
-
-
-
-
-
-
-
-
-
-
-
