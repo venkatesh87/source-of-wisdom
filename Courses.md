@@ -1,19 +1,20 @@
 ﻿# Courses
 
-
 ## Netacademia
 
 Régi C#:
+
 - Hatékony programozás .NET-ben
 - Haladó .NET programozás
 - .NET praktikák haladóknak
 - Design Patterns
 - C# nagyoknak
 - Design patterns és antipatterns
-- ASP.NET  Core szerver oldal
+- ASP.NET Core szerver oldal
 - C# fejlesztési projekt tokkal-vonóval
 
 Angular útvonal fed:
+
 - Angular kezdetek(intro)
 - Angular advanced
 - Angular pro
@@ -21,6 +22,7 @@ Angular útvonal fed:
 - Ionic--
 
 Vue útvonal fed:
+
 - Vue Bootstrap4
 - Jquery alapozás
 - Javascript szent habakukk
@@ -29,15 +31,17 @@ Vue útvonal fed:
 - VueJS2--
 
 C# útvonal:
+
 - Dotnet cápák
 - Lenyűgöző C#--
 - Kártyajáték XAML--
-- Webes TODO 
+- Webes TODO
 - Étterem projekt
 - Snake projekt--
 - C# multiplatform alapok 2018--
 
 Unity útvonal:
+
 - Lenyűgöző Unity
 - Unity bevezetés a 2D játékfejlesztésbe--
 - Unity UI--
@@ -45,13 +49,14 @@ Unity útvonal:
 - Unity modern eszközökkel--
 
 Web:
+
 - NodeJS képzés
-- AngularJS tanfolyam 
+- AngularJS tanfolyam
 - JavaScript alapok
 - Programozás JavaScriptben
 - JavaScript minden eszközre
 - Web Superhero
-- HTML 5 tanfolyam 
+- HTML 5 tanfolyam
 - HTML5 programozás
 
 ## UDEMY:
@@ -60,6 +65,7 @@ Web:
 - React vs Angular vs Vue.js by Example
 
 Mosh Hamedani:
+
 - C# Basics for Beginners - Learn C# Fundamentals by Coding
 - ASP.NET Core + Angular2
 - Angular 4 (Angular 2+) Master Class: Beginner to Advanced
@@ -74,16 +80,19 @@ Mosh Hamedani:
 - The Complete ASP.NET MVC 5 Course
 
 Maximilian Schwarzmüller:
+
 - Angular 7 (formerly Angular 2) - The Complete Guide
 - Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular
 - Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)
 - JavaScript - The Complete Guide 2020 (Beginner + Advanced)
 
 Colt Steele:
+
 - The Web Developer Bootcamp--
 - The Advanced Web Developer Bootcamp--
 
 Stephen Grider:
+
 - Modern React with Redux [2019 Update]--
 - Advanced React and Redux: 2018 Edition--
 - Machine Learning with Javascript--
@@ -91,15 +100,19 @@ Stephen Grider:
 - The New Modern Javascript Bootcamp (2020)
 
 Jose Portilla:
+
 - Python for Financial Analysis and Algorithmic Trading
 - Python for Time Series Data Analysis
 - Complete Tensorflow 2 and Keras Deep Learning Bootcamp
 - Python for Data Science and Machine Learning Bootcamp
+- Spark and Python for Big Data with PySpark
 
 Brad Traversy:
+
 - Modern HTML & CSS From The Beginning (Including Sass)
 
 Other:
+
 - High Performance Coding with .NET Core and C#
 - .NET Core Microservicess--
 - Advanced CSS and Sass: Flexbox, Grid, Animations and More!
@@ -110,3 +123,4 @@ Other:
 - AI Flight with Unity ML-Agents
 - Build an app with ASPNET Core and Angular from scratch
 - Complete guide to building an app with .Net Core and React
+- Learn Ethical Hacking From Scratch

@@ -434,14 +434,17 @@ DEEP - ML - Reinforcement Learning,
 - https://keras.io/
 - https://www.tensorflow.org/
 
--jupyter
--lxml
--matplotlib
--pandas
--Pillow
--scikit-learn
--seaborn
--tensorflow
+- Anaconda https://www.anaconda.com/
+- Jupyter https://jupyter.org/
+- Numpy https://numpy.org/
+- Pandas https://pandas.pydata.org/
+- MatplotLib https://matplotlib.org/
+- Seaborn https://github.com/mwaskom/seaborn
+
+- https://facebook.github.io/prophet/
+  -lxml
+  -Pillow
+  -scikit-learn
 
 NLP:
 
@@ -480,10 +483,6 @@ Bot:
 BD:
 
 - https://spark.apache.org/
-
-Analysis:
-
-- https://facebook.github.io/prophet/
 
 Others:
 
@@ -742,8 +741,8 @@ DB:
 Informatika  
 Grafika
 Unreal-Unity-CryEngine,XNA,Cocos-Phaser,Euphoria
-Zbrush+Vue+3D Studio  
-  
+Zbrush+Vue+3D Studio
+
 Robotika:
 RPI,Arduino
 IOT
