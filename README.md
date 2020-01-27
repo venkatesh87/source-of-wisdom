@@ -10,6 +10,7 @@
 
 - MS Learn https://docs.microsoft.com/hu-hu/learn/
 - Udemy https://www.udemy.com/
+- Udacity https://www.udacity.com/
 - PluralSight https://www.pluralsight.com/
 - Packt https://www.packtpub.com/
 - Tuts+ https://tutsplus.com/
@@ -126,6 +127,7 @@ ASP CMS Frameworks:
 - DJAM https://www.djamware.com/
 - ASPHacker https://asp.net-hacker.rocks/
 - Reiter https://reiteristvan.wordpress.com/
+- Tonsky https://tonsky.me/blog/disenchantment
 
 ## Forums
 
@@ -212,9 +214,11 @@ Collections:
 - https://store.akveo.com/
 - https://aspnetzero.com (not free)
 - https://flatlogic.com/templates/sing-app-angular-net-core-3 (not free)
+- https://github.com/proudmonkey/ApiBoilerPlate
 
-Web:
+Others:
 
+- https://github.com/tonsky
 - https://github.com/fireship-io
 - https://github.com/eggheadio
 - https://github.com/eggheadio-projects
@@ -231,6 +235,7 @@ Web:
 - https://github.com/EggDice
 - https://github.com/minutuslausus
 - https://github.com/RayViljoen
+- https://github.com/llSourcell?tab=repositories
 
 Intresting:
 
@@ -346,6 +351,7 @@ Stores:
 
 Usefull stuffs:
 
+- https://avocode.com/
 - https://www.uxpin.com/
 - https://www.freepik.com/
 - http://www.lorumipse.hu/
@@ -396,6 +402,8 @@ Bootstrap:
 
 ## DBs
 
+- https://cloudinary.com/
+- https://online.visual-paradigm.com/
 - https://www.connectionstrings.com/
 - https://cloudcraft.co/
 - https://firebase.google.com/
@@ -436,6 +444,7 @@ DEEP - ML - Reinforcement Learning,
 
 - Anaconda https://www.anaconda.com/
 - Jupyter https://jupyter.org/
+- Jupiter .NET https://github.com/microsoft/jupyter-core
 - Numpy https://numpy.org/
 - Pandas https://pandas.pydata.org/
 - MatplotLib https://matplotlib.org/
@@ -611,6 +620,7 @@ Others:
 - https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a
 - https://en.wikipedia.org/wiki/Timeline_of_web_browsers
 
+- https://www.json-generator.com/
 - https://yeoman.io/
 - https://www.epochconverter.com/
 - https://bundlephobia.com/
@@ -667,6 +677,7 @@ Angular:
 - https://reactive.how/
 - https://ng-bootstrap.github.io/#/home
 - https://programmingwithmosh.com/angular/essential-vscode-extensions-for-angular-developers/
+- https://www.ngdevelop.tech/best-angular-tables/
 
 AngularJS:
 
