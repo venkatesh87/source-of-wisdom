@@ -312,6 +312,7 @@ Ideas:
 
 Libs or frameworks:
 
+- https://syncfusion.com/
 - https://getbootstrap.com/
 - https://www.primefaces.org/primeng/#/
 - https://material.io/design/
@@ -326,6 +327,11 @@ Libs or frameworks:
 - https://js.devexpress.com/
 - https://github.com/galio-org/galio
 - https://github.com/AvaloniaUI
+- https://razor.radzen.com/
+- https://www.telerik.com/blazor-ui
+- https://www.devexpress.com/blazor/
+- https://github.com/Blazored
+- https://blazorise.com/
 
 Sites:
 
@@ -709,6 +715,14 @@ JQuery:
 - https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 - https://blazor-university.com/
 - https://chrissainty.com/
+
+Components:
+
+- https://razor.radzen.com/
+- https://blazor.syncfusion.com/
+- https://www.telerik.com/blazor-ui
+- https://www.devexpress.com/blazor/
+- https://github.com/Blazored
 - https://blazorise.com/
 
 ## Unity
