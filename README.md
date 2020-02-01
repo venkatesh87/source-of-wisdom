@@ -150,6 +150,7 @@ ASP CMS Frameworks:
 - Tech Howdy https://www.youtube.com/channel/UC58AAnVqw_sF6LBAKJJES4Q/videos
 - Daily Tution https://www.youtube.com/channel/UCrG2Z0usOCCdUTAr4D1A8mw/videos
 - C# UI https://www.youtube.com/channel/UCigNaporFrKIPHiF1FcWfwA/videos
+- Florin Pop https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA/videos
 
 ## Github
 
@@ -215,6 +216,8 @@ Collections:
 - https://aspnetzero.com (not free)
 - https://flatlogic.com/templates/sing-app-angular-net-core-3 (not free)
 - https://github.com/proudmonkey/ApiBoilerPlate
+- https://github.com/kgrzybek/modular-monolith-with-ddd
+- https://github.com/NHadi/Pos
 
 Others:
 
@@ -606,8 +609,19 @@ Others:
 - https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
 - https://docs.elitenet.dk/asp-net-middleware-and-services
 - https://codinginfinite.com/best-top-dot-net-core-useful-libraries-open-source/
-- https://github.com/chsakell/aspnet-core-identity/
 - https://code-maze.com/aspnetcore-webapi-best-practices/
+- https://jasonwatmore.com/posts/tag/aspnet-core
+
+Identity:
+
+- https://github.com/IdentityServer/
+- https://github.com/chsakell/aspnet-core-identity/
+- https://github.com/dotnet/aspnetcore/tree/release/2.2/src/Security/samples
+- https://github.com/brunohbrito/JPProject.IdentityServer4.AdminUI
+- https://github.com/TanvirArjel/JWTAuthenticationWithAspNetCoreAndAngular
+- https://jasonwatmore.com/posts/tag/authentication-and-authorization
+- https://fullstackmark.com/post/21/user-authentication-and-identity-with-angular-aspnet-core-and-identityserver
+- https://fullstackmark.com/post/13/jwt-authentication-with-aspnet-core-2-web-api-angular-5-net-core-identity-and-facebook-login
 
 ## .NET
 
