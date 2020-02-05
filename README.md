@@ -128,6 +128,7 @@ ASP CMS Frameworks:
 - ASPHacker https://asp.net-hacker.rocks/
 - Reiter https://reiteristvan.wordpress.com/
 - Tonsky https://tonsky.me/blog/disenchantment
+- DZone https://dzone.com/articles/asp-net-tutorials-and-articles
 
 ## Forums
 
@@ -360,6 +361,7 @@ Stores:
 
 Usefull stuffs:
 
+- https://zurb.com/playground/motion-ui
 - https://avocode.com/
 - https://www.uxpin.com/
 - https://www.freepik.com/
@@ -426,6 +428,7 @@ Bootstrap:
 - http://dexie.org/
 - https://www.sqlite.org/index.html
 - https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa
+  -mongoDB | https://robomongo.org | mongoose
 
 ## ML - AI - BI - BD (unsorted)
 
@@ -578,6 +581,13 @@ Others:
 - https://www.rabbitmq.com/
 - https://grafana.com/
 
+## Diagnostic, Benchmark
+
+- https://github.com/davidfowl/AspNetCoreDiagnosticScenarios
+- https://owldrivendevelopment.net/2019/11/02/asp-net-core-app-metrics
+- https://github.com/dotnet/BenchmarkDotNet
+- https://devblogs.microsoft.com/dotnet/collecting-and-analyzing-memory-dumps/
+
 ## Testing website
 
 - https://web.dev/
@@ -592,6 +602,7 @@ Others:
 
 - https://stackoverflow.com/jobs/salary
 - https://ithon.info/
+- https://nofluffjobs.com/hu
 
 ## Others unsorted
 
@@ -627,7 +638,7 @@ Identity:
 
 - https://linqsamples.com/
 - https://archive.codeplex.com/?p=modernuicharts
-- https://www.hangfire.io/
+- https://www.hangfire.io/ - https://crontab.guru/
 - https://grpc.io/blog/grpc-on-dotnetcore
 - https://github.com/dotnet/reactive
 - https://marketplace.visualstudio.com/
