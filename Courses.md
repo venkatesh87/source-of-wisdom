@@ -124,3 +124,4 @@ Other:
 - Build an app with ASPNET Core and Angular from scratch
 - Complete guide to building an app with .Net Core and React
 - Learn Ethical Hacking From Scratch
+- The Complete WordPress Website Business Course 

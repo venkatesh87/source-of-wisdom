@@ -535,6 +535,10 @@ Others:
 - https://pages.github.com/
 
 - https://dotnet.microsoft.com/apps/aspnet/hosting
+- https://asphostpage.com/Pricing
+- https://freeasphosting.net/
+- https://hostadvice.com/hosting-services/windows/
+- https://asphostportal.com
 - https://www.smarterasp.net/
 - https://www.hostinger.com/
 - https://www.forpsi.hu/
