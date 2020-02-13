@@ -98,6 +98,7 @@ Stephen Grider:
 - Machine Learning with Javascript--
 - Docker and Kubernetes: The Complete Guide--
 - The New Modern Javascript Bootcamp (2020)
+- The Modern Angular Bootcamp [2020]
 
 Jose Portilla:
 
@@ -124,4 +125,4 @@ Other:
 - Build an app with ASPNET Core and Angular from scratch
 - Complete guide to building an app with .Net Core and React
 - Learn Ethical Hacking From Scratch
-- The Complete WordPress Website Business Course 
+- The Complete WordPress Website Business Course
