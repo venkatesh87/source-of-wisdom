@@ -591,6 +591,14 @@ Others:
 - https://owldrivendevelopment.net/2019/11/02/asp-net-core-app-metrics
 - https://github.com/dotnet/BenchmarkDotNet
 - https://devblogs.microsoft.com/dotnet/collecting-and-analyzing-memory-dumps/
+- https://docs.microsoft.com/en-us/dotnet/framework/performance/etw-events
+- https://github.com/Microsoft/perfview
+- http://www.stackify.com/prefix
+- https://miniprofiler.com
+- https://github.com/brendangregg/FlameGraph
+- JetBrain+RedGate
+- Visual Studio for .NET Core – PerfTips ,Profiler ,Diagnostic Tools
+- Instrumentation Profiler CPU
 
 ## Testing website
 
