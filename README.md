@@ -219,6 +219,7 @@ Collections:
 - https://github.com/proudmonkey/ApiBoilerPlate
 - https://github.com/kgrzybek/modular-monolith-with-ddd
 - https://github.com/NHadi/Pos
+- https://github.com/fals/cqrs-clean-eventual-consistency
 
 Others:
 
@@ -336,6 +337,7 @@ Libs or frameworks:
 - https://www.devexpress.com/blazor/
 - https://github.com/Blazored
 - https://blazorise.com/
+- https://blazorstrap.io/
 
 Sites:
 
@@ -761,6 +763,7 @@ Components:
 - https://www.devexpress.com/blazor/
 - https://github.com/Blazored
 - https://blazorise.com/
+- https://blazorstrap.io/
 
 ## Unity
 
